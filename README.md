@@ -1,5 +1,5 @@
 
-[![MasterHead]()](wardust00.io)
+<!--[![MasterHead]()](wardust00.io)-->
 
 <h1 align="center">Hi 👋, I'm WarDust00</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
