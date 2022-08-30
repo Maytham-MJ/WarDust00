@@ -1,7 +1,7 @@
 
 <!--[![MasterHead]()](wardust00.io)-->
 
-<h1 align="center">Hi 👋, I'm Maytham</h1>
+<h1 align="center">Hi 👋, I'm M.J </h1>
 <h3 align="center">A passionate Software Engineer from California</h3>
 
 <p align="Center"> <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/> </p>
